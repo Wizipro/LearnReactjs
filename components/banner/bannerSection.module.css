@@ -1,0 +1,12 @@
+.section {
+    display: flex;
+    justify-content: space-between;
+    background-image: url(../../public/fajkqmivqay7u5t.jpg);
+    background-repeat: no-repeat;
+    padding: 50px;
+    background-size: cover;
+}
+/* 
+.section .section2{
+ width: 100%;
+} */
